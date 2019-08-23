@@ -2,6 +2,7 @@
 
 ## goftpd
 FTP超级轻量的服务，上传、下载
+wget --ftp-user=admin --ftp-password=123456 ftp://192.xx.xx.xx:2121/xx.exe
 
 ## notify
 文件目录监控，AWD中能用上
